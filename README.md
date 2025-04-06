@@ -6,15 +6,12 @@
 - Run installer and choose **Basic** installation.
 - Accept license, proceed, and let it complete.
 
-🖼️ Screenshot Reference:
-- Screenshot 1: Installation mode selected (Developer Edition)
 
 ## ✅ 2. Install SQL Server Management Studio (SSMS)
 - Download from: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 - Install SSMS normally.
 
-🖼️ Screenshot Reference:
-- Screenshot 2: SSMS installation prompt
+
 
 ## ✅ 3. Connect to SQL Server using SSMS
 - Open SSMS
@@ -23,8 +20,8 @@
   - Server name: **localhost** or **(local)**
   - Authentication: **Windows Authentication**
 - Click **Connect**
-
-🖼️ Screenshot Reference:
+Here select the option "trust server certificate"
+🖼️ Screenshot Reference: screenshots/Screenshot 2025-04-06 181458.png
 - Screenshot 3: SSMS login screen with default settings
 
 ## ✅ 4. Restore AdventureWorks Database
@@ -46,9 +43,7 @@
 5. Click **OK** to restore
 
 🖼️ Screenshot References:
-- Screenshot 4: Restore Database window - device selected
-- Screenshot 5: Backup file selected
-- Screenshot 6: Restore settings finalized and confirmed
+
 
 ## 🧪 5. Verify Setup
 - After restore, expand **Databases** and verify **AdventureWorks2019** is listed
