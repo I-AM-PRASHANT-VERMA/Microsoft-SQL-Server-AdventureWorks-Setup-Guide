@@ -21,7 +21,7 @@
   - Authentication: **Windows Authentication**
 - Click **Connect**
 Here select the option "trust server certificate"
-🖼️ Screenshot Reference: screenshots/Screenshot 2025-04-06 181458.png
+🖼️ Screenshot Reference: (screenshots/Screenshot 2025-04-06 181458.png)
 - Screenshot 3: SSMS login screen with default settings
 
 ## ✅ 4. Restore AdventureWorks Database
