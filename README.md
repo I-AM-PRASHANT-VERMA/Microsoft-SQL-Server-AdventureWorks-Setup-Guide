@@ -44,6 +44,7 @@ Here select the option "trust server certificate"
 
 🖼️ Screenshot References:
 ![Screenshot 2](screenshots/Screenshot%202025-04-06%20181458.png)
+click on three dots in the right hand side to get the new window to select .bak file
 ![Screenshot 3](screenshots/Screenshot%202025-04-06%20182716.png)
 ![Screenshot 4](screenshots/Screenshot%202025-04-06%20182736.png)
 ![Screenshot 5](screenshots/Screenshot%202025-04-06%20182802.png)
