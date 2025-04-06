@@ -21,7 +21,7 @@
   - Authentication: **Windows Authentication**
 - Click **Connect**
 Here select the option "trust server certificate"
-![Screenshot 1](screenshots/Screenshot%202025-04-06%20181458.png)
+![Screenshot 1](screenshots/Screenshot%202025-04-06%20180622.png)
 - Screenshot 3: SSMS login screen with default settings
 
 ## ✅ 4. Restore AdventureWorks Database
@@ -43,6 +43,11 @@ Here select the option "trust server certificate"
 5. Click **OK** to restore
 
 🖼️ Screenshot References:
+![Screenshot 2](screenshots/Screenshot%202025-04-06%20181458.png)
+![Screenshot 3](screenshots/Screenshot%202025-04-06%20182716.png)
+![Screenshot 4](screenshots/Screenshot%202025-04-06%20182736.png)
+![Screenshot 5](screenshots/Screenshot%202025-04-06%20182802.png)
+![Screenshot 6](screenshots/Screenshot%202025-04-06%20182829.png)
 
 
 ## 🧪 5. Verify Setup
@@ -52,9 +57,6 @@ Here select the option "trust server certificate"
 ```sql
 SELECT TOP 10 * FROM Person.Person
 ```
-
-🖼️ Screenshot Reference:
-- Screenshot 7: Query window showing sample result from AdventureWorks
 
 ## 🏁 You’re Done
 You now have:
@@ -73,12 +75,4 @@ Use this setup for learning T-SQL, practicing joins, views, stored procedures, a
 
 ---
 
-📷 Screenshot Index:
-- Screenshot 1: SQL Server Developer install
-- Screenshot 2: SSMS installation
-- Screenshot 3: SSMS connection screen
-- Screenshot 4: Restore device selected
-- Screenshot 5: .bak file selected
-- Screenshot 6: Restore confirmation
-- Screenshot 7: Query result
 
